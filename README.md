@@ -6,4 +6,4 @@ This is a RAG system for Medical application.
 本项目使用的大模型和嵌入模型均来自Huggingface  
 搭建知识库用到的医疗文献源数据来自：https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_bulk/  
 这里我们只使用了oa_comm中的部分文献，如果您的算力资源和设备更强，可以选择更大的数据集   
-如果数据集链接无法打开，您可以下载我们仓库中的数据，并直接上传到算力云平台；
+如果数据集链接无法打开，您可以下载我们仓库中的数据，并直接上传到算力云平台进行使用；   
