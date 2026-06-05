@@ -1,6 +1,6 @@
 This is a RAG system for Medical application.
 这是一个医疗应用场景下专用的RAG系统。  
-本项目代码由两个ipynb文件组成，rag_da是数据分析模块，rag_query是主模块，上传至AutoDL等算力云平台即可运行（4090单卡即可）。  
+本项目代码由两个ipynb文件组成，rag_da.ipynb是数据分析模块，rag_query.ipynb是RAG主模块，上传至AutoDL等算力云平台即可运行（4090单卡即可）。  
 模型可选Deepseek-R1-7B或Deepseek-R1-8B,也可以根据个人喜好选择Qwen2.5  
 嵌入模型可选ollama或BGE-small
 本项目使用的大模型和嵌入模型均来自Huggingface  
